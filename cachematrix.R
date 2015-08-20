@@ -1,4 +1,5 @@
 ## makes a makeCacheMatrix object that can return a cached value of it's inverse
+## modified version of rdpend example makeVector.R from coursera class 
 
 ## creats matrix object
 ## returns list of methods within this object
